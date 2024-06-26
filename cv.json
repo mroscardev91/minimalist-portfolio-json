@@ -2,7 +2,7 @@
     "basics": {
       "name": "Óscar Gómez",
       "label": "Full Stack Developer con más de 2 años de experiencia & Freelancer",
-      "image": "/me.webp",
+      "image": "/me.png",
       "email": "mroscardev@gmail.com",
       "phone": "+34 640303997",
       "url": "https://mroscar.dev",
@@ -17,8 +17,8 @@
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "midudev",
-          "url": "https://linkedin.com/in/midudev"
+          "username": "mroscardev",
+          "url": "https://www.linkedin.com/in/mroscardev"
         },
         {
           "network": "X",
